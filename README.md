@@ -17,6 +17,10 @@ Tenho experiência com **Excel Avançado, Visual Basic e Glide Apps**, e atualme
 - **Ferramentas:** Git, GitHub, VS Code  
 - **Outros:** Glide Apps
 
+## Projeto | SOT - System Of Taxonomy
+Link https://taxonomia.glide.page
+- Aplicativo / site que tem como objetivo auxiliar estudiosos de zoologia na compreensão da árvore da vida animal
+
 ---
 
 ## Contato Profissional
