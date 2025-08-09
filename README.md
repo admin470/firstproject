@@ -10,19 +10,13 @@
 Sou apaixonado por tecnologia e pelo impacto que ela pode ter na forma como aprendemos e compartilhamos conhecimento.  
 Mudei para a área de TI para criar soluções que conectem pessoas e tornem o acesso à informação mais efetivo.  
 Tenho experiência com **Excel Avançado, Visual Basic e Glide Apps**, e atualmente me aprofundo no desenvolvimento **web** e **backend**.
-
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Tecnologias e Ferramentas que aprendi
 - **Linguagens:** Python, VBA, JavaScript 
 - **Frameworks & Bibliotecas:** React, Node.js  
 - **Ferramentas:** Git, GitHub, VS Code  
 - **Outros:** Glide Apps
-
----
-
-## 🚀 Projeto em Destaque
-- [📦 SOT - System Of Taxonomy](taxonomia.glide.page) – Aplicativo / site criado pelo Glide. Tem como objetivo esclarecer o conhecimento sobre zoologia para estudiosos na área e projeto parceiros.
 
 ---
 
